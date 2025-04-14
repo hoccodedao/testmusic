@@ -226,6 +226,21 @@ const app = {
             pathSong: 'dnlli.mp3',
             duration : '03:56',
         },
+        {
+            background: 'b24.jpg',
+            name: 'She Neva Knows',
+            singer: 'JustaTee',
+            pathSong: 'snk.mp3',
+            duration : '04:28',
+        },
+        {
+            background: 'b25.jpg',
+            name: 'Tình đầu',
+            singer: 'Hương ly cover - Tăng duy tân',
+            pathSong: 'td.mp3',
+            duration : '04:20',
+        },
+
 
 
     ],
