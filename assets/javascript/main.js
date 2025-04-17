@@ -443,6 +443,137 @@ const app = {
             pathSong: 'admdm.mp3',
             duration : '04:36',
         },
+        {
+            background: 'b57.jpg',
+            name:'Anh không tha thứ',
+            singer: 'Đình Dũng',
+            pathSong: 'aktt.mp3',
+            duration : '04:34',
+        },
+        {
+            background: 'b58.jpg',
+            name:'Tay nắm tay rời',
+            singer: 'Phạm Đình Thái Ngân',
+            pathSong: 'tntr.mp3',
+            duration : '03:49',
+        },
+        {
+            background: 'b59.jpg',
+            name:'Chiều hôm ấy',
+            singer: 'Jaykii',
+            pathSong: 'cha.mp3',
+            duration : '05:08',
+        },
+        {
+            background: 'b60.jpg',
+            name:'Phố cũ còn anh',
+            singer: 'Quinn ft Chilly',
+            pathSong: 'pcca.mp3',
+            duration : '03:52',
+        },
+        {
+            background: 'b61.jpg',
+            name:'Hứa đợi nhưng chẳng tới',
+            singer: 'Lâm Tuấn x Vương Thiên Tuấn',
+            pathSong: 'hdnct.mp3',
+            duration : '05:26',
+        },
+        {
+            background: 'b62.jpg',
+            name:'Xin lỗi vì đã xuất hiện',
+            singer: 'Vũ Duy Khánh ',
+            pathSong: 'xlvdxh.mp3',
+            duration : '05:56',
+        },
+        {
+            background: 'b63.jpg',
+            name:'Cuộc vui cô đơn',
+            singer: 'Lê bảo bình',
+            pathSong: 'cvcd.mp3',
+            duration : '04:26',
+        },
+        {
+            background: 'b64.jpg',
+            name:'Bán duyên',
+            singer: 'Đình Dũng × Đăng Sơn',
+            pathSong: 'bd.mp3',
+            duration : '03:36',
+        },
+        {
+            background: 'b65.jpg',
+            name:'Phận duyên lỡ làng',
+            singer: 'Phát Huy T4 x Truzg x KProx',
+            pathSong: 'pdll.mp3',
+            duration : '03:45',
+        },
+        {
+            background: 'b66.jpg',
+            name:'Em đã xa anh',
+            singer: 'Như Việt x VUX',
+            pathSong: 'edxa.mp3',
+            duration : '04:56',
+        },
+        {
+            background: 'b67.jpg',
+            name:'Anh mệt rồi',
+            singer: 'Anh Quân Idol x MewMew',
+            pathSong: 'amr.mp3',
+            duration : '05:21',
+        },
+        {
+            background: 'b68.jpg',
+            name:'Tim ngủ đông',
+            singer: 'Phan Như Thùy',
+            pathSong: 'tnd.mp3',
+            duration : '04:14',
+        },
+        {
+            background: 'b69.jpg',
+            name:'Hoa nở bên đường',
+            singer: 'Quang Đăng Trần x CaoTri',
+            pathSong: 'hnbd.mp3',
+            duration : '04:32',
+        },
+        {
+            background: 'b70.jpg',
+            name:'Chúng ta chỉ giống tình yêu',
+            singer: 'NGUYENN x ARIC PIANO COVER',
+            pathSong: 'ctcgty.mp3',
+            duration : '05:50',
+        },
+        {
+            background: 'b71.jpg',
+            name:'Chờ đợi có đáng sợ',
+            singer: ' Andiez x Freak D',
+            pathSong: 'cdcds.mp3',
+            duration : '05:18',
+        },
+        {
+            background: 'b72.jpg',
+            name:'Nơi tinh yêu kết thúc',
+            singer: 'Bùi Anh Tuấn',
+            pathSong: 'ntykt.mp3',
+            duration : '05:18',
+        },
+        {
+            background: 'b73.jpg',
+            name:'Anh đã từng cố gắng',
+            singer: 'Nhật Phong x Freak D',
+            pathSong: 'adtcg.mp3',
+            duration : '04:06',
+        },
+        {
+            background: 'b74.jpg',
+            name:'Những gì anh nói',
+            singer: 'Bozitt ',
+            pathSong: 'ngan.mp3',
+            duration : '06:51',
+        },
+
+
+
+
+
 
 
 
